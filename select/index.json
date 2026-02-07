@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Monday Night",
+  "base_artist": "直田姫奈",
+  "createdAt": "2026-02-07T20:22:25.788488Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Monday Night",
+      "artist": "Zero 7",
+      "has_synced": false,
+      "path": "select/01_Monday_Night_Zero_7.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come Monday Night",
+      "artist": "God Help the Girl",
+      "has_synced": false,
+      "path": "select/02_Come_Monday_Night_God_Help_the_Girl.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Monday Night Football",
+      "artist": "John Parr",
+      "has_synced": false,
+      "path": "select/03_Monday_Night_Football_John_Parr.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Night (Monday Night Raw) [2014 Remix]",
+      "artist": "WWE & CFO$",
+      "has_synced": false,
+      "path": "select/04_The_Night_(Monday_Night_Raw)_[2014_Remix]_WWE_&_CFO$.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Night (Monday Night Raw Theme)",
+      "artist": "WWE & CFO$",
+      "has_synced": true,
+      "path": "select/05_The_Night_(Monday_Night_Raw_Theme)_WWE_&_CFO$.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come Monday Night",
+      "artist": "God Help The Girl",
+      "has_synced": true,
+      "path": "select/06_Come_Monday_Night_God_Help_The_Girl.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Weird On a Monday Night",
+      "artist": "Younger Brother",
+      "has_synced": false,
+      "path": "select/07_Weird_On_a_Monday_Night_Younger_Brother.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Monday Night",
+      "artist": "Native",
+      "has_synced": true,
+      "path": "select/08_Monday_Night_Native.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All My Rowdy Friends Are Coming Over For Monday Night Football",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/09_All_My_Rowdy_Friends_Are_Coming_Over_For_Monday_Night_Football_Hank_Williams,_Jr..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Monday Night Catfights",
+      "artist": "MoxiFloxi",
+      "has_synced": true,
+      "path": "select/10_Monday_Night_Catfights_MoxiFloxi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Monday Night (feat. Kardinal Offishall)",
+      "artist": "SonReal feat. Kardinal Offishall",
+      "has_synced": false,
+      "path": "select/11_Monday_Night_(feat._Kardinal_Offishall)_SonReal_feat._Kardinal_Offishall.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Monday Night (feat. Kardinal Offishall)",
+      "artist": "SonReal",
+      "has_synced": false,
+      "path": "select/12_Monday_Night_(feat._Kardinal_Offishall)_SonReal.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Monday Night Raw",
+      "artist": "YN Jay",
+      "has_synced": true,
+      "path": "select/13_Monday_Night_Raw_YN_Jay.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Getting Kicked Out (Of Micky's On A Monday Night)",
+      "artist": "Alaska Thunderfuck",
+      "has_synced": true,
+      "path": "select/14_Getting_Kicked_Out_(Of_Micky's_On_A_Monday_Night)_Alaska_Thunderfuck.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Monday Night",
+      "artist": "Johnny Apple",
+      "has_synced": true,
+      "path": "select/15_Monday_Night_Johnny_Apple.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All My Rowdy Friends Are Coming Over for Monday Night Football",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/16_All_My_Rowdy_Friends_Are_Coming_Over_for_Monday_Night_Football_Hank_Williams,_Jr..txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Monday Night By Satellite",
+      "artist": "Max Q",
+      "has_synced": false,
+      "path": "select/17_Monday_Night_By_Satellite_Max_Q.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Monday Night",
+      "artist": "直田姫奈",
+      "has_synced": false,
+      "path": "select/pl_01_Monday_Night_直田姫奈.txt"
+    }
+  ]
+}
